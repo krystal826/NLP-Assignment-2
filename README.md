@@ -1,7 +1,7 @@
 # NLP-Assignment-2
 
 
-References:
+References for corpus:
 
 1. https://www.channelnewsasia.com/asia/malaysia-omicron-variant-covid-19-endemic-phase-2348596
 2. https://www.straitstimes.com/asia/se-asia/all-vtl-langkawi-bubble-travellers-to-Malaysia-to-undergo-daily-covid-19-tests 
